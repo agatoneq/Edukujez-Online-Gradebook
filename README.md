@@ -54,12 +54,12 @@ A collaborative project developed as part of a Software Engineering course. The 
 
 ## 👥 Project Team
 
-Eustachy Lisiński – [GitHub](https://github.com/EustachyL)  
-Agata Sobczyk – [GitHub](https://github.com/agatoneq)  
-Karolina Barszcz – [GitHub](https://github.com/karolinab11)  
-Kamila Młynarczyk – [GitHub](https://github.com/KamilaMlyn)  
-Artur Ulman – [GitHub](https://github.com/Stam8231)  
-Miłosz Wojtanek – [GitHub](https://github.com/ElMilos)
+- Eustachy Lisiński – [GitHub](https://github.com/EustachyL)  
+- Agata Sobczyk – [GitHub](https://github.com/agatoneq)  
+- Karolina Barszcz – [GitHub](https://github.com/karolinab11)  
+- Kamila Młynarczyk – [GitHub](https://github.com/KamilaMlyn)  
+- Artur Ulman – [GitHub](https://github.com/Stam8231)  
+- Miłosz Wojtanek – [GitHub](https://github.com/ElMilos)
 
 
 ## 📜 License
