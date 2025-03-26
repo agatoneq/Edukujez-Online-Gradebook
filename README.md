@@ -1,4 +1,4 @@
-# 📚 Edukujez – Online Gradebook System
+# 📚 EdukuJeż – Online Gradebook System
 
 A collaborative project developed as part of a Software Engineering course. The application is a Windows Forms-based electronic gradebook system designed to support schools and universities in managing students, subjects, grades, and user interactions.
 
