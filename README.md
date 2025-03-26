@@ -15,14 +15,15 @@ A collaborative project developed as part of a Software Engineering course. The 
 
 ## 🏗️ Core Features
 
-- User management with group-based permissions
-- Creation and editing of:
-  - Subjects
-  - Timetables
-  - Students and teacher groups
-- Grade entry and automatic final grade calculation
-- Messaging system for internal communication
-- Role-specific interfaces for admins, teachers, students, and parents
+- User account system with roles: **Administrator, Teacher, Student, Parent**
+- **Timetable creation and management** with assignment of subjects, teachers, and classrooms
+- **Event calendar** with support for activities, replacements, and scheduling
+- **Subject definition** with attached materials, announcements, and grading schemes
+- **Partial and final grade entry**, automatically calculated based on predefined rules
+- **Messaging system** for internal communication between users
+- **Behavior notes and comments** visible to authorized roles (e.g. parents)
+- **Group and class management** with teacher and advisor assignments
+- **Student progress tracking** accessible to parents
 
 ## 💻 How to Run
 
@@ -37,29 +38,28 @@ A collaborative project developed as part of a Software Engineering course. The 
 
 ## 🧪 Testing
 
-- Manual user scenario testing (admin/teacher/student/parent)
-- Observed and resolved issues related to:
-  - Message display and selection
-  - Form state persistence after cancellation
-  - Group visibility and hierarchy logic
-  - Grade form configuration with weights and formulas
+- Manual scenario-based testing for all user roles (admin, teacher, student, parent)
+- Issues identified and resolved:
+  - Message delivery and display logic
+  - Form cancellation and view state persistence
+  - User-role-specific group visibility
+  - Weighted grade rules and formula evaluation in final marks
 
-## 📊 Technologies Used
+## 🛠️ Technologies Used
 
-- C#
-- .NET (Windows Forms)
-- MySQL
-- Entity Framework
-- Visual Studio
+- **Backend**: C#, ASP.NET Core, Entity Framework
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Database**: SQL Server
+- **Tools**: Visual Studio, Git
 
 ## 👥 Project Team
 
-Eustachy Lisiński
-Agata Sobczyk  
-Karolina Barszcz  
-Kamila Młynarczyk  
-Artur Ulman  
-Miłosz Wojtanek
+Eustachy Lisiński – [GitHub](https://github.com/EustachyL)  
+Agata Sobczyk – [GitHub](https://github.com/agatoneq)  
+Karolina Barszcz – [GitHub](https://github.com/karolinab11)  
+Kamila Młynarczyk – [GitHub](https://github.com/KamilaMlyn)  
+Artur Ulman – [GitHub](https://github.com/Stam8231)  
+Miłosz Wojtanek – [GitHub](https://github.com/ElMilos)
 
 
 ## 📜 License
